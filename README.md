@@ -1,14 +1,14 @@
-# 🐍 Estudando Django com W3Schools
+# 🐍 Estudando Django
 
-Este repositório tem como objetivo documentar minha jornada de aprendizado com o framework **Django**, utilizando como base o curso oferecido pela [W3Schools](https://www.w3schools.com/django/index.php). Ele funcionará como um **projeto piloto** e um **hub central** para os demais projetos que irei desenvolver e versionar ao longo dos estudos.
+Este repositório tem como objetivo documentar minha jornada de aprendizado com o framework **Django**, utilizando como base o curso gratuito oferecido pela [W3Schools](https://www.w3schools.com/django/index.php). Ele funcionará como um **projeto piloto** e um **hub central** para os demais projetos que irei desenvolver e versionar ao longo dos estudos.
 
 > Todo o conteúdo desenvolvido aqui será referenciado ao tutorial original da W3Schools.
 
 ---
 
-## 🧠 Sobre o Django
+## Sobre o Django
 
-Django é um framework web do lado do servidor (back-end), escrito em **Python**, **gratuito** e **open source**. Ele facilita a criação de sites dinâmicos, robustos e escaláveis com menos código e mais organização.
+Django é um framework web, escrito em **Python**, **gratuito** e **open source**. Ele facilita a criação de sites dinâmicos, robustos e escaláveis com menos código e mais organização.
 
 Django foi desenvolvido em 2003 por uma equipe do jornal **Lawrence Journal-World**, com o objetivo de agilizar a criação de sistemas para atender a prazos apertados. Foi lançado publicamente em **julho de 2005**, e desde então tem sido mantido por uma comunidade ativa.
 
@@ -16,7 +16,7 @@ Django foi desenvolvido em 2003 por uma equipe do jornal **Lawrence Journal-Worl
 
 ---
 
-## ⚙️ Como o Django Funciona?
+## Como o Django Funciona?
 
 Django segue o padrão de arquitetura **MVT (Model - View - Template)**:
 
@@ -28,7 +28,7 @@ Esse fluxo permite organizar e separar bem as responsabilidades dentro de uma ap
 
 ---
 
-## 📚 O que será estudado?
+## O que será estudado?
 
 O curso da W3Schools segue uma abordagem **learning by doing**, ensinando passo a passo a:
 
@@ -42,11 +42,11 @@ O curso da W3Schools segue uma abordagem **learning by doing**, ensinando passo 
 
 ---
 
-## 📘 Mapa de Estudos
+## Mapa de Estudos
 
 A imagem abaixo (captura da W3Schools) representa os tópicos do curso:
 
-![Mapa de Conteúdo](./Captura%20de%20tela%20de%202025-05-15%2015-24-34.png)
+![Mapa de Conteúdo](./mapa-estudo.png)
 
 Os tópicos estão organizados em seções como:
 
@@ -61,7 +61,7 @@ Os tópicos estão organizados em seções como:
 
 ---
 
-## 📁 Estrutura deste Repositório
+## Estrutura deste Repositório
 
 Este repositório conterá:
 
@@ -77,12 +77,12 @@ Este repositório conterá:
 
 ---
 
-## 🧭 Próximos Passos
+## Próximos Passos
 
-À medida que eu for finalizando os tópicos, novos repositórios serão criados com os exemplos práticos e documentações. Todos estarão linkados aqui, formando um portfólio de projetos Django com evolução gradual.
+À medida que os projetos forem finalizados, novos repositórios serão criados com os exemplos práticos e documentações. Todos estarão linkados aqui, formando um portfólio de projetos Django com evolução gradual.
 
 ---
 
-## 🔗 Referência
+## Referência
 
 Curso completo disponível em: [https://www.w3schools.com/django/index.php](https://www.w3schools.com/django/index.php)
